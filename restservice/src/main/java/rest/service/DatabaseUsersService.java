@@ -18,7 +18,7 @@ public class DatabaseUsersService implements UsersService{
     static final String JDBC_DRIVER = "org.postgresql.Driver";
     static final String DB_URL = "jdbc:postgresql://localhost/test";
     static final String USER = "postgres";
-    static final String PASS = "njkzrj1962";
+    static final String PASS = "njkzrj19621989";
 
     private final Connection connection;
 
